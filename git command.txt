@@ -1,0 +1,6 @@
+1 got to ur local folder
+2 git init
+3 git add .
+4 git commit -m "message"
+5 git status
+6 git log

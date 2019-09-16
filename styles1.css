@@ -1,0 +1,54 @@
+
+.jumbotron{
+	background-image: url("images/fuji.jpg");
+	height: 100%;
+	background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+    width:100%;
+}
+.navbar-header
+{
+	float: left;
+}
+.navbar
+{
+	
+}
+ .scroll-down  
+ {
+ 	position: absolute;
+ 	bottom: 0px;
+ 	right: 5%;
+ 	background-color: green;
+ } 
+
+
+}
+.bgimg h1,p
+{
+	text-align: center;
+	padding-top: 50px;
+}
+.feature ul li a
+{
+   text-decoration: none;
+
+}
+.feature ul i:hover a
+{
+	
+  background-color: hotpink;
+}
+}
+.whitebg{
+	background-image: url("images/fuji.jpg");
+	height: 100%;
+	background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+    
+}
+
